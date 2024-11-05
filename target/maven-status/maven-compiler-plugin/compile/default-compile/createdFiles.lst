@@ -1,0 +1,2 @@
+com\ecommerce\model\User.class
+com\ecommerce\dao\UserDAO.class
